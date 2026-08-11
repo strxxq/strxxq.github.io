@@ -20,7 +20,7 @@ const about = {
   highlight: "Цитата дня сухарики снекинг.",
   facts: [
     ["Ник", "strxxq"],
-    ["Занятие", "существовать"],
+    ["Занятие", "Строитель"],
     ["Музыкальные исполнители", "Violent Vira, Juice wrld, Amira Elfeky"],
     ["Цель", "BMW 428i Gran Coupe"]
   ]
