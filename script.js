@@ -27,8 +27,8 @@ const about = {
 };
 
 const games = [
-  { name:"CS2", image:"image: "assets/game1.jpg"", achievement:"FACEIT Level 5", time:"1100+ часов" },
-  { name:"DOTA 2", image:"image: "assets/game2.jpg"", achievement:"1500mmr", time:"1300+ часов" },
+  { name:"CS2", image:"assets/game1.jpg", achievement:"FACEIT Level 5", time:"1100+ часов" },
+  { name:"DOTA 2", image:"assets/game2.jpg", achievement:"1500mmr", time:"1300+ часов" },
   { name:"VALORANT", image:"assets/game3.jpg", achievement:"gold 1", time:"200+ часов" },
   { name:"APEX LEGENDS", image:"assets/game4.jpg", achievement:"Platinum IV", time:"400+ часов" },
   { name:"BRAWL STARS", image:"assets/game5.jpg", achievement:"50,000+", time:"кубков" }
