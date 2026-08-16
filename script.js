@@ -41,7 +41,7 @@ const achievements = [
 ];
 
 const anime = [
-  { name:"Naruto", image:"assets/anime1.jpg", text:"Сила в терпении." },
+  { name:"Hunter", image:"assets/anime1.jpg", text:"Охота за мечтой." },
   { name:"Death Note", image:"assets/anime2.jpg", text:"Скука убивает людей." },
   { name:"Attack on Titan", image:"assets/anime3.jpg", text:"Свобода за стенами." },
   { name:"Jujutsu Kaisen", image:"assets/anime4.jpg", text:"Сильнейший — одинок." },
