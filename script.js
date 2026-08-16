@@ -49,7 +49,7 @@ const anime = [
 ];
 
 function imgOrPlaceholder(path, label){
-  return `<img src="${path}" alt="${label}" onerror="this.style.display='none'; this.parentElement.innerHTML='<span class="empty">ДОБАВЬ КАРТИНКУ</span>'">`;
+  return `<img src="${path}" alt="${label}" onerror="this.style.display='none'">`;
 }
 
 document.querySelector("#aboutText").innerHTML =
